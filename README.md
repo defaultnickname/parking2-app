@@ -4,7 +4,7 @@ Application for parking spots reservation and management. User can choose spot f
 
 
 
-[Live demo](15.236.213.16:8000)
+[Live demo](http://15.236.213.16:8000)
 
 Login with credentials:
 
