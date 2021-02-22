@@ -1,0 +1,44 @@
+@import "~react-week-calendar/dist/style.less";
+
+
+
+#app .ReactVirtualized__Grid{
+overflow:visible
+}
+
+#app .weekCalendar__content {
+	max-height:950px;
+}
+
+.square{
+
+    margin: -1px -1px;
+    width : 100px;
+    height:50px;
+    display: inline-block;
+
+}
+
+.border-row{
+
+    white-space: nowrap
+}
+
+.custom-modal{
+    overflow: scroll;
+	max-height:550px;
+}
+
+.calendarModal{
+    overflow-block: scroll;
+}
+
+#main{
+    width: 100%;
+    height: 100%;
+}
+
+input{
+    display: block;
+}
+
